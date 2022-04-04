@@ -1,0 +1,93 @@
+[
+  {
+    "aboutMe": "Focusat pe rezultate și performanță am reușit întodeauna să îmi indeplinesc obiectivele profesionale ✅. Prefer provăcările unor obiective acoperite de inovație și diversitate 🕵️‍♂️, dar nu am încetat niciodată să îmi îmbunătățesc proiectele dezvoltate atunci când experiența mea profesională a crescut 📈.",
+    "aboutSkill": "Inteligența Artificială 🤖, în special Computer Vision este domeniul de cercetare cel mai îndrăgit, iar curiozitatea mea cea mai mare este diversitatea soluțiilor de dezvoltare aplicații Web 🌐.",
+    "aboutHobby": "În timpul liber îmi place să petrec cât mai mult timp cu prietenii și familia făcând cât mai multe activități sportive: tenis 🏓, baschet ⛹ și călătorit ⛩"
+  },
+  {
+    "stage01_post": "Asistent Cercetare Fizica curgerilor",
+    "stage01_place": "Institutul Național de Cercetare Aerospațială",
+    "stage01_date": "2016 - 2019",
+    "stage01_description": "Dezvoltare de soluții software bazate de algoritmi de ML pentru optimizarea profilelor aerodinamice",
+    "stage02_post": "Internship",
+    "stage02_place": "Compania Nationala de Transporturi Aerieni Romane – TAROM S.A.",
+    "stage02_date": "2017 - 2017",
+    "stage02_description": "Departamentul tehnic – Mentenanta si Intretinere"
+  },
+  {
+    "stage11_post": "Dezvoltator Software",
+    "stage11_place": "Ministerul Apărării Naționale",
+    "stage11_date": "2019 - 2020",
+    "stage11_description": "Securitatea informației și a sistemelor de date.",
+    "stage12_post": "Inginer Software",
+    "stage12_place": "Ministerul Apărării Naționale",
+    "stage12_date": "2020 - 2022",
+    "stage12_description": "Dezvoltare de aplicații Web bazate de algoritmi de Inteligență Artificială.",
+    "stage13_post": "Șef de Proiect",
+    "stage13_place": "Ministerul Apărării Naționale",
+    "stage13_date": "2022 - Prezent",
+    "stage13_description": "Coordonarea și managementul activităților de cercetare/dezvoltare din cadrul proiectelor bazate pe Inteligență Artificială și aplicații Web."
+  },
+  {
+    "stage21_post": "Studii Licență",
+    "stage21_place": "Universitatea Politehnica din București",
+    "stage21_date": "2014 - 2018",
+    "stage21_description": "Facultatea de Inginerie Aerospațială",
+    "stage21_description1": "Construcții Aerospațiale",
+    "stage21_description2": "Utilizarea algoritmilor genetici în optimizarea profilelor aerodinamice - XOptFoil",
+    "stage22_post": "Studii Master",
+    "stage22_place": "Universitatea Politehnica din București",
+    "stage22_date": "2018 - 2020",
+    "stage22_description": "Facultatea de Electronică, Telecoumunicații și Tehnologia Informației",
+    "stage22_description1": "Tehnologii Multimedia în Aplicații de Biometrie și Securitatea Informației",
+    "stage22_description2": "Sistem Inteligent pentru Detecția Atacurilor de Rețea - SIDAR"
+  },
+  {
+    "course1": "Certificat de absolvire cursuri – Airframe Structural Design – Fokker Engineering Romania.",
+    "course2": "Certificat de absolvire cursuri de mentenanta si operare Picarro Inc.",
+    "course3": "Certificat de absolvire cursuri The Ultimate C# Series - Code With Mosh",
+    "course4": "Certificat de absolvire cursuri Managementul Proiectelor Software - Luxoft Training",
+    "course5": "Certificat de absolvire cursuri Arhitectura bazata pe microservicii - Luxoft Training",
+    "course6": "Certificat de absolvire cursuri Kubernetes for Developers - Kluger Training",
+    "course7": "Software Arhitecture and Design - Udacity"
+  },
+  {
+    "article1": [
+      "Using genetic algorithms to optimize airfoils in incompressible regime",
+      "https://www.researchgate.net/publication/331532709_Using_genetic_algorithms_to_optimize_airfoils_in_incompressible_regime"
+    ],
+    "article2": [
+      "Estimation of Wind Tunnel Corrections Using Potential Models",
+      "https://www.researchgate.net/publication/331531994_Estimation_of_Wind_Tunnel_Corrections_Using_Potential_Models"
+    ],
+    "article3": [
+      "Aerothermodynamic Shape Optimization for Re-entry Capsule Using Genetic Algorithms",
+      "https://www.researchgate.net/publication/337829376_Aerothermodynamic_Shape_Optimization_for_Re-entry_Capsule_Using_Genetic_Algorithms"
+    ]
+  },
+  {
+    "conf1": "Sesiunea de Comunicari Stintifice Studentesti – Facultatea de Ingineria si Managementul Sistemelor Tehnologice – Premiul II",
+    "conf2": "Sesiunea de Comunicari Stintifice Studentesti – Facultatea de Stiinte Aplicate - Matematica – Premiul III",
+    "conf3": "Sesiunea de Comunicari Stintifice Studentesti – Facultatea de Inginerie Aerospatiala – Premiul II",
+    "conf4": "Certificat de participare ILRC28 (International Laser-Radar Conference)",
+    "conf5": "Certificat de participare SDD 2022 (Software Design and Development Conference)"
+  },
+  {
+    "pm_info": "Planificarea si coordonarea proiectelor de cercetare, dezvoltare si mentenanta software, utilizând cele mai noi metodologii AGILE, SMART, WBS, KPI.",
+    "pm_years": "1 ani",
+    "sa_info": "Dezvoltarea de aplicații modulare bazate pe arhitecturi de tipul Microservicii.",
+    "sa_years": "1 ani",
+    "ia_info": "Studiu, cercetare și implementarea de algoritmi bazați pe IA, ML, DL pentru extragerea/ analiza/ generarea de informații/ rezultate în domeniul securității naționale. ",
+    "ia_years": "3 ani",
+    "db_info": "Analiza funționalităților, stabilirea celor mai bune tehnologii pentru problema dată și implementarea de cod optimizat și rapid.",
+    "db_years": "1 ani",
+    "be_info": "Dezvoltarea de aplicații web bazate pe comunicarea REST API pentru activitățile de tip CRUD.",
+    "be_years": "2 ani",
+    "fe_info": "Dezvoltarea de platforme web ce generează pentru utilizatori o experință unică, ușoară și intuitivă - UI/UX.",
+    "fe_years": "2 ani",
+    "cy_info": "Analiza securității unei aplicații web și identificarea vulnerabilităților.",
+    "cy_years": "2 ani",
+    "devops_info": "Introducea proceselor de automatizare și monitorizare continuă pe tot parcursul ciclului de viață al aplicațiilor, de la fazele de integrare și testare până la livrare și implementare.",
+    "devops_years": "1 ani"
+  }
+]
